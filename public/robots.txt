@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /quem-somos
+Allow: /servicos
+Allow: /servicos/limpeza-profissional
+Allow: /servicos/polimento-cristalizacao
+Allow: /servicos/troca-rejunte
+Allow: /servicos/revitalizacao
+Allow: /servicos/impermeabilizacao
+Allow: /servicos/restauracao
+Allow: /portfolio
+Allow: /contato
+Disallow: /politica-privacidade
+
+Sitemap: https://example.com/sitemap.xml
