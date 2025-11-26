@@ -1,3 +1,4 @@
+import aboutImage2 from '../../../assets/images/about-2.jpg';
 const AboutSection = () => {
   return (
     <section className="py-20 bg-white">
@@ -38,7 +39,7 @@ const AboutSection = () => {
             <div className="space-y-4">
               <div className="rounded-lg overflow-hidden shadow-lg h-64">
                 <img
-                  src="https://static.readdy.ai/image/e0c5e77842c26e0cfc24a07e507d4548/2357227144cc30e3a107caf514e1a216.jpeg"
+                  src={aboutImage2}
                   alt="Serviço de polimento profissional"
                   className="w-full h-full object-cover object-top hover:scale-110 transition-transform duration-500"
                 />
